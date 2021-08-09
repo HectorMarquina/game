@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serveltsAsync_3C:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>serveltsAsync_3C</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="serveltsAsync_3C-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="serveltsAsync_3C:war exploded" />
+    </root>
+  </artifact>
+</component>
